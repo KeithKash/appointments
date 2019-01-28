@@ -39,8 +39,8 @@ class Config {
     // ------------------------------------------------------------------------
 
     const DB_HOST       = 'localhost';
-    const DB_NAME       = 'appointments';
-    const DB_USERNAME   = 'appointments';
+    const DB_NAME       = 'Appointments';
+    const DB_USERNAME   = 'Appointments';
     const DB_PASSWORD   = '6544FmAPh2ydAVwM';
 
     // ------------------------------------------------------------------------
